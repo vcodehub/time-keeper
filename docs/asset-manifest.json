@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/time-keeper/static/css/main.9a4f6f0d.css",
+    "main.js": "/time-keeper/static/js/main.13e00119.js",
+    "static/js/787.049e39aa.chunk.js": "/time-keeper/static/js/787.049e39aa.chunk.js",
+    "index.html": "/time-keeper/index.html",
+    "main.9a4f6f0d.css.map": "/time-keeper/static/css/main.9a4f6f0d.css.map",
+    "main.13e00119.js.map": "/time-keeper/static/js/main.13e00119.js.map",
+    "787.049e39aa.chunk.js.map": "/time-keeper/static/js/787.049e39aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4f6f0d.css",
+    "static/js/main.13e00119.js"
+  ]
+}
